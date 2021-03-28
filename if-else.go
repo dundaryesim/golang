@@ -1,6 +1,6 @@
-//bir sayı 3'e tam bölünebiliyorsa ekrana fizz yaz.
-//bir sayı 5'e tam bölünebiliyorsa ekrana buzz yaz.
-//bir sayı hem 3'e hem 5'e tam bölünebiliyorsa ekrana fizzbuzz yaz.
+// Bir sayı 3'e tam bölünebiliyorsa ekrana fizz yaz.
+// Bir sayı 5'e tam bölünebiliyorsa ekrana buzz yaz.
+// Bir sayı hem 3'e hem 5'e tam bölünebiliyorsa ekrana fizzbuzz yaz.
 
 package main
 
