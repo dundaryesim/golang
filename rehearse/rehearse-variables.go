@@ -3,16 +3,18 @@ package main
 import "fmt"
 
 func main() {
-	var yas int // 0
-	yas = 20
+	var (
+		isim = "Yesim"
+		yas  = 18
+		kilo = 51
+		//	boy   = 1.62
+		//	issiz = true
+		endex  = (yas + kilo) / 2
+		mature = yas >= 18
+	)
+	fmt.Printf("Adı: %v, Yası: %v, Endexi: %v \n", isim, yas, endex)
+	fmt.Printf("yesim resit mi? %v\n", mature)
+	fmt.Printf("Yesim 51 kilo mu? %v\n", kilo != 51)
 
-	var boy int = 160
-
-	var kilo = 180
-
-	isim := "serhat"
-
-	var sehir, ulke string = "berlin", "almanya"
-
-	fmt.Println("Hello serhat!")
+	fmt.Printf("Yeşim şişman mı? %v \n", 60 < kilo)
 }
