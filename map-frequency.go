@@ -8,7 +8,7 @@ func main() {
 	}
 	frequency := make(map[float64]int)
 	for _, t := range temperatures {
-		frequency[t] = frequency[t] + 1
+		frequency[t]++
 	}
 	for t, num := range frequency {
 		fmt.Printf("%+.2f occurs %d times\n", t, num)
