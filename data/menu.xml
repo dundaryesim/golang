@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <food>
+    <name>Doner</name>
+    <price>6.0</price>
+    <types>
+      <type>Chicken</type>
+      <type>Beef</type>
+    </types>
+  </food>
+
+  <food>
+    <name>Pizza</name>
+    <price>15.0</price>
+    <types>
+      <type>Chicken</type>
+      <type>Beef</type>
+      <type>Vegetarian</type>
+    </types>
+  </food>
+</menu>

@@ -1,0 +1,15 @@
+menu:
+  food:
+    - name: Doner
+      price: '6.0'
+      types:
+        type:
+          - Chicken
+          - Beef
+    - name: Pizza
+      price: '15.0'
+      types:
+        type:
+          - Chicken
+          - Beef
+          - Vegetarian
