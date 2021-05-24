@@ -26,7 +26,7 @@ func main() {
 	fmt.Println(dog)
 
 	// you can't do this because these are different types now!
-	fmt.Println(string(dog) + owner)
+	fmt.Println(string(dog) + " " + owner)
 
 	// call the method
 	fmt.Println(dog.sound("Hav hav hav!"))
