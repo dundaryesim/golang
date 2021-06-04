@@ -1,0 +1,24 @@
+# Odev 1
+
+- Complete katas:
+  - https://www.codewars.com/kata/56dec885c54a926dcd001095
+  - https://www.codewars.com/kata/59ca8246d751df55cc00014c
+  - https://www.codewars.com/kata/55685cd7ad70877c23000102
+  - https://www.codewars.com/kata/53369039d7ab3ac506000467
+  - https://www.codewars.com/kata/55f73be6e12baaa5900000d4
+  - https://www.codewars.com/kata/55d24f55d7dd296eb9000030
+  - https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+  - https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
+  - https://www.codewars.com/kata/55cbc3586671f6aa070000fb
+  - https://www.codewars.com/kata/586c1cf4b98de0399300001d
+  - https://www.codewars.com/kata/5a023c426975981341000014
+  - https://www.codewars.com/kata/56f6ad906b88de513f000d96
+  - https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
+  - https://www.codewars.com/kata/5556282156230d0e5e000089
+  - https://www.codewars.com/kata/523b66342d0c301ae400003b
+  - https://www.codewars.com/kata/56f6ad906b88de513f000d96
+  - https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
+  - https://www.codewars.com/kata/55192f4ecd82ff826900089e
+  - https://www.codewars.com/kata/59342039eb450e39970000a6
+  - https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
+  - https://www.codewars.com/kata/565f5825379664a26b00007c
