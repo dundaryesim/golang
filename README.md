@@ -7,7 +7,7 @@ This project includes my GoLang examples.
 - push ederken hata verir ve pull et der
 - pull ederken açılan editörü kapatmak için aşağıdakiler:
 
-  ```
-  ESC
-  :wq!
-  ```
+```
+ESC
+:wq!
+```
