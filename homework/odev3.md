@@ -1,9 +1,4 @@
-# Odev 2
-
-- Lesson 14'u tekrar et.
-- Lesson 16'yi tekrar et.
-- Lesson 17'yi oku.
-- Sonra ben slice'lari anlatacagim.
+# Odev 3
 
 - Complete katas:
 

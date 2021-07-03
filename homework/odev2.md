@@ -1,4 +1,6 @@
-# math paketi
+# Odev 2
+
+## math paketi
 
 - [X] Negatif bir sayinin mutlak degerini al, ekrana yazdir (Abs).
 - [x] 10.1 float degerinden sonra gelen ilk tamsayiyi bul ve ekrana yazdir (Ceil).
@@ -9,7 +11,7 @@
 - [x] Bir sayinin ussunu bul ve ekrana yazdir. Ornegin 4 uzeri 5 (Pow).
 - [x] Bir sayinin karekokunu bul ve ekrana yazdir (Sqrt).
 
-# strings paketi
+## strings paketi
 
 - [x] Verilen iki string birbiriyle ayni mi karsilastir (Compare).
 - [x] Verilen iki string'den, ikincisi birincinin icinde geciyor mu bul (Contains, ContainsAny)
